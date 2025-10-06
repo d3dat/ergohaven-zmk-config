@@ -68,20 +68,20 @@
             display-name = "Base";
         };
 
-        scroll {
-            bindings = <
-&trans  &trans
-            >;
-
-            display-name = "Scroll";
-        };
-
         sniper {
             bindings = <
 &trans  &trans
             >;
 
             display-name = "Sniper";
+        };
+
+        scroll {
+            bindings = <
+&trans  &trans
+            >;
+
+            display-name = "Scroll";
         };
 
         adjust {
